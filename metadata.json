@@ -1,0 +1,6 @@
+{
+  "name": "AI Assistant",
+  "description": "Voice and text AI mobile assistant for Shoaib Akhtar with phone actions control",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
